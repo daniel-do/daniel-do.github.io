@@ -1,2 +1,2 @@
-# jdan.github.io
+# JDAN
 JDAN Enterprises
