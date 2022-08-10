@@ -1,0 +1,17 @@
+img {
+  width: 25%;
+  height: 75%;
+  margin-left: 5%;
+}
+
+#content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#text {
+  color: #667277;
+  width: 50%;
+  font-size: 1.5vw;
+}
