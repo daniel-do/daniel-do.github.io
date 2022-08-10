@@ -1,0 +1,24 @@
+.subhead {
+  color: #779CAB;
+  font-size: 1.7vw;
+  margin-bottom: -10px;
+}
+
+p {
+  color: #707070;
+}
+
+#content {
+  margin-left: 5%;
+  margin-top: -3%;
+  width: 75%;
+}
+
+a {
+  text-decoration: none;
+  color: #779CAB;
+}
+
+a:hover {
+  text-decoration: underline;
+}

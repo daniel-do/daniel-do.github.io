@@ -1,0 +1,30 @@
+#content {
+  margin-left: 5%;
+  color: #667277;
+  margin-top: -3%;
+}
+
+#content p {
+  display: inline;
+  margin-left: 2%;
+  margin-bottom: 1%;
+}
+
+#content div {
+  margin-top: 2%;
+  display: flex;
+  align-items: center;
+}
+
+#content img {
+  width: 2%;
+}
+
+#content a {
+  text-decoration: none;
+  color: #667277;
+}
+
+#content a:hover {
+  text-decoration: underline;
+}
