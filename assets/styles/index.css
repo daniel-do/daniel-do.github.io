@@ -95,33 +95,6 @@ li a:hover:before {
     blink-caret .75s step-end infinite;
 }
 
-#icons {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
-  width: 25%;
-  margin-top: 28px;
-  margin-left: 17px;
-}
-
-#icons a {
-  width: 15%;
-  margin: 0px 20px 0px 0px;
-}
-
-#git {
-  width: 97% !important;
-}
-
- #fb {
-  width: 59%;
-}
-
-#linked {
-  width: 55%;
-  margin-left: 11%;
-}
-
 #intro {
   margin-top: -50px;
   display: flex;

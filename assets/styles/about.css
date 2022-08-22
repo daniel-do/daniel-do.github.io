@@ -1,7 +1,13 @@
-img {
+.image1 { /* Jennifer profile image */
   width: 25%;
   height: 75%;
   margin-left: 5%;
+}
+
+.image2 { /* Hugh profile image */
+  width: 25%;
+  height: 75%;
+  float: right;
 }
 
 #content {
