@@ -1,2 +1,2 @@
 # JDAN
-JDAN Enterprises
+JDAN Enterprise LLC
