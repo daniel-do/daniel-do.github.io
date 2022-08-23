@@ -24,7 +24,9 @@ hr {
 #text {
   color: #667277;
   font-size: 1.5vw;
+  margin-left: 5%;
   margin-right: 5%;
+  text-align: center;
 }
 
 #footer {
