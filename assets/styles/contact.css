@@ -2,7 +2,8 @@
   color: #779CAB;
   font-size: 1.7vw;
   margin-bottom: -10px;
-  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #content {
@@ -25,7 +26,7 @@
 
 #content img {
   width: 2%;
-  margin-left: 45%;
+  margin-left: 40%;
 }
 
 #content a {

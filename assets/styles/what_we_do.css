@@ -29,6 +29,10 @@ td {
   text-align: center;
 }
 
+hr {
+  margin: auto 220px;
+}
+
 #content {
   display: flex;
   flex-direction: row;
@@ -39,5 +43,6 @@ td {
   color: #667277;
   font-size: 1.5vw;
   margin-left: 5%;
+  margin-right: 5%;
   text-align: center;
 }
