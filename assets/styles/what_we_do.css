@@ -1,0 +1,43 @@
+.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  width: 75%;
+  height: 25%;
+  float: center;
+}
+
+.location-image {
+  width: 50%;
+  height: 100%;
+  float: center;
+}
+
+th {
+  color: #779CAB;
+  font-size: 1.7vw;
+  margin-bottom: -10px;
+  text-decoration: underline;
+  text-align: center;
+}
+
+td {
+  color: #667277;
+  font-size: 1.5vw;
+  text-align: center;
+}
+
+#content {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+#text {
+  color: #667277;
+  font-size: 1.5vw;
+  margin-left: 5%;
+  text-align: center;
+}

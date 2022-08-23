@@ -2,6 +2,7 @@
   color: #779CAB;
   font-size: 1.7vw;
   margin-bottom: -10px;
+  text-decoration: underline;
 }
 
 img {
@@ -18,8 +19,8 @@ img {
 
 #text {
   color: #667277;
-  width: 50%;
   font-size: 1.5vw;
+  margin-left: 5%;
 }
 
 #footer {

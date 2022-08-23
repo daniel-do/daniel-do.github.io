@@ -2,6 +2,7 @@
   color: #779CAB;
   font-size: 1.7vw;
   margin-bottom: -10px;
+  text-align: center;
 }
 
 #content {
@@ -24,6 +25,7 @@
 
 #content img {
   width: 2%;
+  margin-left: 45%;
 }
 
 #content a {
