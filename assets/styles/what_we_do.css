@@ -1,6 +1,7 @@
 .center {
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
 }
 
 img {
@@ -13,6 +14,10 @@ img {
   width: 50%;
   height: 100%;
   float: center;
+}
+
+table {
+  width: 100%;
 }
 
 th {
@@ -41,7 +46,7 @@ hr {
 #text {
   color: #667277;
   font-size: 1.5vw;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 40%;
+  margin-right: 40%;
   text-align: center;
 }
