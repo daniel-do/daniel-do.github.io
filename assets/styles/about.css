@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+}
+
 .subhead {
   color: #779CAB;
   font-size: 1.7vw;
@@ -45,6 +49,10 @@ header {
 
 hr {
   margin: auto 220px;
+}
+
+section {
+  background-color: #fff;
 }
 
 #content {
