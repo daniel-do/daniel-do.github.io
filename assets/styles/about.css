@@ -23,7 +23,12 @@ header {
 }
 
 .background {
-    transform: translateZ(10px) scale(2);
+    transform: translateZ(-10px) scale(2);
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
 }
 
 .title {
@@ -32,11 +37,11 @@ header {
     text-shadow: 0 0 5px black;
 }
 
-img {
+/*img {
   width: 25%;
   height: 75%;
   margin-left: 5%;
-}
+}*/
 
 hr {
   margin: auto 220px;
