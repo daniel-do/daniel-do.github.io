@@ -54,10 +54,48 @@ li a:hover:before {
 }
 
 h1 {
-  font-family: 'Nunito', sans-serif;
+  font-family: 'Futura-CondensedExtraBold', sans-serif;
   color: #667277;
   font-weight: lighter;
   font-size: 2.5vw;
   margin: 3% 5% 5% 5%;
   text-align: center;
+}
+
+.footer {
+  background-color: #C0362C;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  padding-left: 20%;
+}
+
+#footer-margin-text {
+  background-color: #C0362C;
+  color: #C0362C;
+  font-size: 1.5vw;
+}
+
+#footer-text {
+  background-color: #C0362C;
+  font-size: 1.5vw;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 40%;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  padding-left: 100px;
+  height: 300px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }

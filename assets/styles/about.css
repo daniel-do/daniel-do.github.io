@@ -2,13 +2,6 @@ body {
   margin: 0;
 }
 
-.subhead {
-  color: #779CAB;
-  font-size: 1.7vw;
-  margin-bottom: -10px;
-  text-decoration: underline;
-}
-
 .wrapper {
     height: 100vh;
     overflow-y: auto;
@@ -21,13 +14,14 @@ header {
     display: flex;
     justify-content: center;
     align-items: start;
-    height: 100%;
+    height: 60%;
+    width: 100%;
     transform-style: preserve-3d;
     z-index: -1;
 }
 
 .background {
-    transform: translateZ(-10px) scale(2);
+    transform: translateZ(-10px) scale(3);
     position: absolute;
     top: 0;
     height: 100%;
@@ -40,12 +34,13 @@ header {
     font-size: 7rem;
     color: white;
     text-shadow: 0 0 5px black;
+    margin-top: 200px;
 }
 
 .profile {
   width: 25%;
   height: 75%;
-  margin-left: 5%;
+  margin-left: 20%;
 }
 
 h1 {
@@ -66,19 +61,20 @@ section {
   justify-content: space-around;
 }
 
-#text {
-  text-align: center;
+#top-margin {
+  margin-bottom: 5%;
 }
 
-#text, #text-beside-image {
+#text {
+  color: #667277;
+  font-size: 1.5vw;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+#text-beside-image {
   color: #667277;
   font-size: 1.5vw;
   margin-left: 5%;
-  margin-right: 5%;
-}
-
-#footer {
-  color: #667277;
-  font-size: 1.5vw;
-  text-align: center;
+  margin-right: 20%;
 }
