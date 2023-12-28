@@ -1,3 +1,2 @@
-# JDAN
-JDAN Enterprise LLC
-https://daniel-do.github.io/jdan/
+# JDAN Enterprise, LLC
+https://jdanenterprise.com/
