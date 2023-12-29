@@ -1,5 +1,5 @@
 html {
-  background: url("../images/golden_gate_bridge.jpg") no-repeat center center fixed;
+  background: url("../images/3airports_dark.png") no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -19,12 +19,13 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #C0362C;
+  background-color: #3B3430;
 }
 
 li {
   float: right;
   margin: 15px 35px 15px 0px;
+  text-shadow: 0 0 5px black;
 }
 
 li a {
@@ -65,12 +66,14 @@ li a:hover:before {
   font-size: 2vw;
   letter-spacing: 2px;
   margin: 0;
+  text-shadow: 0 0 5px black;
 }
 
 #name {
   /* font-family: 'Montserrat', sans-serif; */
   font-size: 7vw;
   font-weight: lighter;
+  text-shadow: 0 0 5px black;
 }
 
 #intro {

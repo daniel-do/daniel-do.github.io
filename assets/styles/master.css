@@ -12,7 +12,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #C0362C;
+  background-color: #3B3430;
 }
 
 li {
@@ -63,7 +63,7 @@ h1 {
 }
 
 .footer {
-  background-color: #C0362C;
+  background-color: #3B3430;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -71,7 +71,7 @@ h1 {
 }
 
 #footer-text {
-  background-color: #C0362C;
+  background-color: #3B3430;
   font-size: 1.5vw;
   font-size: 20px;
 }
