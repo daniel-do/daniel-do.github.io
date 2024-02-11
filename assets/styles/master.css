@@ -62,6 +62,15 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-family: 'Futura-CondensedExtraBold', sans-serif;
+  color: #667277;
+  font-weight: lighter;
+  font-size: 1.5vw;
+  margin: 3% 5% 5% 5%;
+  text-align: center;
+}
+
 .footer {
   background-color: #3B3430;
   left: 0;
@@ -82,7 +91,7 @@ h1 {
 
 .column {
   float: left;
-  width: 40%;
+  width: 30%;
   padding-top: 20px;
   padding-bottom: 20px;
   padding-left: 100px;
@@ -92,4 +101,10 @@ h1 {
   content: "";
   display: table;
   clear: both;
+}
+
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
 }
